@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\rizwa\source\repos\Assign_2_FInal\x64\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="CreateBoardTest.SnakeLadderPositions" Duration="1" />
+    <TestDuration Test="CreateBoardTest.BoardLinks" Duration="1" />
+    <TestDuration Test="CreateBoardTest.EdgeTiles" Duration="1" />
+    <TestDuration Test="RollDiceTest.GameStart" Duration="1" />
+    <TestDuration Test="RollDiceTest.ReverseQueue" Duration="1" />
+    <TestDuration Test="MovePlayerTest.NormalTraversal" Duration="1" />
+    <TestDuration Test="MovePlayerTest.LadderTraversal" Duration="1" />
+    <TestDuration Test="MovePlayerTest.SnakeTraversal" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
